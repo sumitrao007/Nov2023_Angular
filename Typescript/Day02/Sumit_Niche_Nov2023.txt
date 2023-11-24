@@ -1,0 +1,8 @@
+Last Agenda Lecture
+1 Introduction
+2 S/W Installation
+
+Today's Agenda Lecture
+1 What is typescript 
+	- Ecma script + ecmascript standard(version ...) + additional features = typescript  
+2 Simple Pgm
