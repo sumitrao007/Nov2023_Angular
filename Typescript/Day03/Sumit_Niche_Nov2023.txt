@@ -1,0 +1,30 @@
+Last Lecture Agenda
+1 What is typescript 
+	- Ecma script + ecmascript standard(version ...) + additional features = typescript  
+	- it is superset of js 
+2 Simple Pgm
+	demo1.ts
+	console.log("Hello world");
+	console.log('Hello world');
+	console.log(`Hello world`);
+	
+	tsc demo1.ts & node demo1.js
+3 data types 
+
+var a1;
+
+number,string,boolean,any,void
+// misec null & undefined 
+
+var a:number=10;
+
+str!:string;
+console.log(str)
+
+Today's Lecture Agenda
+1 continue a data type 
+2 literal
+3 type assertion 
+4 Operators 
+5 control staement/sequential statement
+6 Loop Statement
