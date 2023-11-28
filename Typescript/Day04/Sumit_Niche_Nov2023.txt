@@ -1,0 +1,27 @@
+Last Lecture Agenda
+1 continue a data type 
+2 literal
+	var a:number|string;
+	var a:50|string;
+	
+3 type assertion 
+	var a:any;
+	
+	var temp=(<string> a);
+	var temp=(a as string);
+	
+4 Operators 
+	==,===
+5 control staement/sequential statement
+if,if-else,switch,break,continue 
+6 Loop Statement
+while,do-while,for
+
+Today's Lecture Agenda
+1 var vs let vs const 
+2 functions
+3 anonymous functions
+4 fat arrow functions
+5 optional parameter function 
+6 default parameter function
+
