@@ -1,0 +1,27 @@
+Last Lecture Agenda
+1 var vs let vs const 
+2 functions
+	function add1(a:number,b:number):numbre{
+	return ...
+	}
+	add1(10,2);
+	
+3 anonymous functions
+	let temp1= function (a:number,b:number){
+		....
+	}
+4 fat arrow functions
+	let temp1=(a:number,b:number):number=>{
+	return ...
+	}
+5 optional parameter function 
+6 default parameter function
+
+Today's Lecture Agenda
+1 basics of array
+2 join method
+3 for each method
+4 rest parameter function
+5 push & pop method
+6 splice method
+
