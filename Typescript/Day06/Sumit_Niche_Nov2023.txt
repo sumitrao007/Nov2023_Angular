@@ -1,0 +1,34 @@
+Last Lecture Agenda
+1 basics of array
+let a:number[]=[...];
+let a:number[]=[];
+let a=[10,20];
+let a=[10,20,'sumit'];
+let a:any[]=[10,20,'sumit',true];
+2 join method
+	console.log(a.join(" "))
+3 for each method
+	a.forEach((myvalue,i)=>{
+		console.log(myvalue)
+	})
+4 rest parameter function
+	function display(str:string,...item:number[]){
+	....
+	}
+	display(10,20,30,40)
+5 push & pop method
+	a.push(10,20,30)
+	let res=a.pop()
+6 splice method
+	a.splice(1,0,45);
+	a.splice(1,1);
+	a.splice(1,1,48);
+
+Today's Lecture Agenda
+1 slice method 
+2 map method 
+3 destructing/dereferencing of array 
+4 swap the 2 values without using 3rd variable 
+5 return multiple value from the function
+6 deep copy & shallow copy 
+
