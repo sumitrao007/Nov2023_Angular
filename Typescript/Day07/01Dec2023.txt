@@ -1,0 +1,49 @@
+
+data binding
+- data flow from component(.ts) to view(.html) file 
+1 string interpolation
+	{{propertyname}}
+2 property binding 
+	[atrributename]="propertyname"
+3 style binding
+	[style.csspropertyname]="property"
+	[style.csspropertyname]="condition"
+	[ngStyle]="jsonObj"
+	.ts file 
+	jsonObj={
+		color:'..',
+		fontFamily:'...',
+		'font-size':...
+	}
+4 class binding 
+	[class]="property"
+	[class.cssClassname]="condition"
+	[ngClass]="jsonObj"
+	.ts 
+	isError:boolean=true;
+	isSpecial:boolean=true;
+	jsonObj={
+		'suucess':!this.isError,
+		'danger':this.isError,
+		'special':this.isSpecial
+	}
+
+
+
+
+5 two way data binding
+
+D=Document o = > Object m=Modal 
+document => html element => create OBject => data 
+
+structure directive
+	1 *ngIf => on the basis of condition 
+	2 *ngFor => dynamically iteration perform 
+	3 *ngSwitch => specif case should be execute 
+	
+custom pipe 
+@Pipe 
+- It is class Level decorator 
+- PipeTransform  => Interface
+- transform 
+ng g p pipename
