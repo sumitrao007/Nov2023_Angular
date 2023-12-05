@@ -1,0 +1,20 @@
+Last Lecture Agenda
+1 Json Object
+	let obj={
+		id:9,
+		fname:...
+	}
+2 Array of Object
+[
+	{
+		
+	}
+]
+
+Today's Lecture Agenda
+1 Additional Features
+	classes,object,property,method
+	constructor,access specifier,same pkg access 
+
+
+

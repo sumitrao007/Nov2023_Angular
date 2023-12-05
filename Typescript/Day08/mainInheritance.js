@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var rectangle_1 = require("./rectangle");
+var cicrcle_1 = require("./cicrcle");
+var obj = new cicrcle_1.Circle(2);
+obj.myarea();
+obj.display();
+var rectObj = new rectangle_1.Rectangle(2, 3);
+rectObj.myarea();
+rectObj.display();
