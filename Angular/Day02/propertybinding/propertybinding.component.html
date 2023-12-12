@@ -1,0 +1,19 @@
+<p>propertybinding works!</p>
+
+<!-- syntax => 
+    [attribute name]="propertyname"
+-->
+
+<input type="text" [value]="name" ><br><br>
+<img id="myimg" [src]="imgUrl" alt="">
+<hr>
+<div>
+    Difference String interpolation & property binding
+</div>
+<br><br>
+<div hidden=" {{ishidden}} ">
+    Display the text using stringinterpolation
+</div>
+<div [hidden]="ishidden">
+    Display the text using PropertyBinding
+</div>

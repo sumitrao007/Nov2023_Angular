@@ -1,0 +1,71 @@
+Last Lecture Agenda
+1 Angular Arch.
+	- Angular Arch is component Orientated arch.
+	- Every compo 3 file 
+		1 View file => 1 
+		2 ts file => 1
+		3 stylesheet file => many 
+		4 spec.ts => 1
+		
+	metadata=> it gives extra information about that component
+	
+	@Component({
+		selector:'...',
+		templateUrl:'...',
+		styleUrls:[...]
+	})
+	
+	- data binding 
+		data flow from component to view only => one way direction binding
+		1 stringinterpolation
+		2 property binding
+		3 style binding
+		4 class binding
+	- event binding 
+		data flow from view to component only => one way direction binding
+		click,change,k/b, custom event , mouse .....
+	- Directive 
+		to manage ur behaviour or structure dynamically 
+	
+	AppModule
+	
+		- every application contain a 1 root module app.module.ts file
+
+		1 Declaration
+			- To register our component
+		2 imports
+			- we import module 
+		3 services
+			- It is simple class 
+			- backend to front end 
+			- auth services 
+			- one logic is used for all 
+			- BL 
+			- isolation 
+			- pop messs. 
+		4 Routing
+			- to navigate another component
+			- send parameter 
+			- it sends only url 
+			- We achieve a Lazy loading 
+	Injector 
+		- to Inject 3rd party services
+		- Angular inbuild services 
+		- DI 
+		
+	
+	
+2 Apploication flow 
+3 how to create component 
+4 how to create component trough cli 
+5 data binding 
+	- data flow from component file to view file 
+	1 string interpolation 
+
+
+	
+Today's Lecture Agenda
+1 Property Binding
+2 Difference String interpolation & property binding
+3 Style Binding
+
