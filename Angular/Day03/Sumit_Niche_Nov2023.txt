@@ -1,0 +1,15 @@
+Last Lecture Agenda
+1 Property Binding
+2 Difference String interpolation & property binding
+3 Style Binding
+	
+Today's Lecture Agenda
+1 Class Binding
+	
+2 Event Binding
+	- data flow from view to component 
+	- data flow in one direction so it is called one way data binding
+3 click event 
+ 
+ 
+
