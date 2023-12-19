@@ -1,0 +1,17 @@
+Last Lecture Agenda
+1 Class Binding
+	
+2 Event Binding
+	- data flow from view to component 
+	- data flow in one direction so it is called one way data binding
+3 click event
+	
+Today's Lecture Agenda
+1 $event 
+2 template refrence variable 
+3 simple example 
+4 change event 
+
+
+ 
+
