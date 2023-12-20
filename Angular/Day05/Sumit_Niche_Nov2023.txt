@@ -1,0 +1,19 @@
+Last Lecture Agenda
+1 $event 
+2 template refrence variable 
+3 simple example 
+4 change event 
+	
+Today's Lecture Agenda
+1 K/b Event
+	1 keyup
+	2 keydown
+2 event flitering
+	1 enter
+3 event binding without event handler
+4 Two way data binding
+
+
+
+ 
+

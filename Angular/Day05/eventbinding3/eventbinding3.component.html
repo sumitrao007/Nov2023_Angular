@@ -1,0 +1,34 @@
+<p>eventbinding3 works!</p>
+
+<input type="text" (keyup)="onKeyUp()"  placeholder="Key up event "> <br><br>
+
+<input type="text" (keydown)="onKeyDown()"  placeholder="Key down event "> <br><br>
+
+<input #inputname type="text" (keyup.enter)="onEnterKey(inputname.value)" placeholder="Event Filtering Occur"><br><br>
+
+<!-- event binding without event handler -->
+
+<button (click)="result=8+8" >Addition</button>{{result}}
+<hr>
+
+<!-- two way data binding 
+    - ngModel
+    - It is attribute directive
+    - We have use FormsModule => import => app.module.ts file => import section 
+    - U will get updated data into the property
+    - u can apply any html tag
+    - [(ngModel)] => banana in the box notation 
+
+-->
+
+<input type="text" 
+    [(ngModel)]="name"
+placeholder="Enter the name">
+{{name}}
+<hr>
+
+<label for="">Username::&nbsp;&nbsp;</label>
+<input #userinput [(ngModel)]="username" type="text" placeholder="Enter the Usernme"><br><br>
+<label for="">Password::&nbsp;&nbsp;</label>
+<input #pwdinput [(ngModel)]="password" type="password" placeholder="Enter thePassword"><br><br>
+<button (click)="onValidate(userinput,pwdinput)" >Validate</button>
