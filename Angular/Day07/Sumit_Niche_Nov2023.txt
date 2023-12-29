@@ -1,0 +1,15 @@
+Last Lecture Agenda
+1 Structural Directive
+	1 *ngIf
+	2 *ngFor
+	3 *ngSwitch 
+2 mouse event 
+	1 mouseover
+	2 mouseout
+	
+Today's Lecture Agenda
+1 ngSwitch 
+
+
+ 
+
