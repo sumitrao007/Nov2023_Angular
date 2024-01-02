@@ -1,0 +1,18 @@
+Last Lecture Agenda
+1 ngSwitch 
+	
+Today's Lecture Agenda
+1 Component Interaction
+	- u can send data(string/number/boolean/any/json object/array/array of object/class object ) from one component to another component
+	- pre -requiest 
+	1 to make establish the relationship between parent - child relationship
+	
+2 @Input()
+	- to send data from parent component to child component
+3 @Output()
+	- to send data from child component to parent component
+	- to create a custom event => EventEmitter class 
+
+
+ 
+
