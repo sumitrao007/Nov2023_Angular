@@ -1,0 +1,25 @@
+.divElement{
+    background-color: green;
+    color: white;
+    width: 500px;
+    height: auto;
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.mainDiv{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.btnDiv button{    
+    margin: 10px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.childDiv{
+    margin-left: 5em;
+}
