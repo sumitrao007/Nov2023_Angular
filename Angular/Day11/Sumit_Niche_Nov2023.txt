@@ -1,0 +1,25 @@
+Last Lecture Agenda
+1 Pipe 
+	- It transform ur data to end user but without changing its original value 
+2 inbuilt Pipe 
+	lowercase,uppercase,titlecase,
+	percent:'1.1',
+	currency : 'INR':'code' ,
+	number: '1.2-3',
+	date: 'mediumDate'
+	date: 'longDate'
+	date: 'dd-MM-yyyy'
+	date: 'shortDate'
+	date: 'longDate'| uppercase
+
+Today's Lecture Agenda
+1 Custom pipe
+	ng g p pipename
+2 @Pipe 
+3 PipeTransform
+4 transform
+5 Pure & impure Pipe 
+
+
+ 
+
