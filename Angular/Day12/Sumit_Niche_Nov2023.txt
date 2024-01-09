@@ -1,0 +1,22 @@
+Last Lecture Agenda
+1 Custom pipe
+	ng g p pipename
+2 @Pipe 
+3 PipeTransform
+4 transform
+5 Pure & impure Pipe 
+
+Today's Lecture Agenda
+1 Services
+	- It is simple class 
+	- it is used for code resualbility
+	- It is used for code maintainability
+	- It is used to connect ur backend server 
+	- it provide isolation to your component
+	- It is used for auth purpose 
+2 Dependancy Injection
+
+
+
+ 
+
