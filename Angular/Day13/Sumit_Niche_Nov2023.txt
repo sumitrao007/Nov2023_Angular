@@ -1,0 +1,72 @@
+Last Lecture Agenda
+1 Services
+	- It is simple class 
+	- it is used for code resualbility
+	- It is used for code maintainability
+	- It is used to connect ur backend server 
+	- it provide isolation to your component
+	- It is used for auth purpose 
+2 Dependancy Injection
+
+Today's Lecture Agenda
+1 Http Method 
+	1 get => get/fetch the data from backend server 
+	2 post => to send data from frontend to backend server 
+	3 put => to update a particular Record
+	4 delete => to delete a particular Record
+2 Http Request & Http Response
+	
+	Http Request
+		1 http header
+			- ip
+			- method
+			- date time
+			- content Type 
+				- image
+				- file
+				- text
+				- pdf
+			- Auth token 
+		2 http body 
+			- data 
+				- text / html /json /xml format 
+				
+	Http Response
+	
+		1 http header
+			- ip
+			- method
+			- date time
+			- content Type 
+				- image
+				- file
+				- text
+				- pdf
+			- Auth token 
+			- status code 
+				1 2xx => 200-299 => success,ok 200,202,...
+				2 3xx => 300 - 399 => Redirection 300,302
+				3 4xx => 400- 499 => client side error => 400,404
+				4 5xx => 500 - 599 => server side error => 500,504
+				
+		2 http body 
+			- data 
+				- text / html /json /xml format 
+		
+	
+3 HttpClientModule
+	import in app.module.ts file 
+	
+4 https://jsonplaceholder.typicode.com/posts
+
+	- it is a fake service 
+	- if u request get/post/put/delete it get that request but it can not store ur data in database but it gives response of ur request 
+
+5 get
+6 Observable
+7 @Injectable
+
+
+
+ 
+
