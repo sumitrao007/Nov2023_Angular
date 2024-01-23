@@ -1,0 +1,24 @@
+Last Lecture Agenda
+1 delete
+2 error handling  
+
+Today's Lecture Agenda
+1 Routing
+	- navigation from one component to another component
+	
+2 Routing steps
+	1 configure the route => app-routing.module.ts 
+	2 use <router-outlet>
+	3 to establish the link/navigate  between component
+	
+3 empty path
+4 wild cart operator
+5 routerLink
+6 send parameter
+
+
+
+
+ 
+
+ 
