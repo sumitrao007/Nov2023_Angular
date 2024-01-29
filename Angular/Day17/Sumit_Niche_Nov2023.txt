@@ -1,0 +1,21 @@
+Last Lecture Agenda
+1 send multiple parameter
+2 send query parameter
+3 dynamic routing
+
+Today's Lecture Agenda
+1 child routes
+2 lazy loading
+	- we have to create a custom module 
+	- we have to create one routing file as well 
+	
+	ng g  m user --routing 
+	
+3 modify the routing
+
+
+
+
+ 
+
+ 
