@@ -1,0 +1,22 @@
+Last Lecture Agenda
+1 child routes
+2 lazy loading
+	- we have to create a custom module 
+	- we have to create one routing file as well 
+	
+	ng g  m user --routing 	
+3 modify the routing
+
+
+
+Today's Lecture Agenda
+1 Subject
+2 Behavioural Subject
+3 how we can send data from component through the service to multiple component
+
+
+
+
+ 
+
+ 
