@@ -1,0 +1,24 @@
+Last Lecture Agenda
+1 Subject
+2 Behavioural Subject
+3 how we can send data from component through the service to multiple component
+
+Today's Lecture Agenda
+1 Bootstrap
+	- it is simple css freamwork
+	- it is used to make application make attractive 
+	- it is used to make application responsive 
+	- It has its inbuild template syntax classes 
+2 Integration of bootstrap
+	1 online integration
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+		
+
+	2 offline integration
+
+
+
+ 
+
+ 
